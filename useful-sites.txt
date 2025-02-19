@@ -1,2 +1,12 @@
 Post, Ed. "Real Programmers Don't Use PASCAL." http://www.quiche-eater.com/the_real_text.html
-
+Raymond, Eric. "A Brief History of Hackerdom." http://catb.org/~esr/writings/cathedral-bazaar/hacker-history/
+Raymond, Eric. "Art of UNIX Programming, The." http://catb.org/~esr/writings/taoup/html/
+Raymond, Eric. "Cathedral and the Bazaar, The." http://catb.org/~esr/writings/cathedral-bazaar/cathedral-bazaar/
+Raymond, Eric. "Hacker Jargon File, The." http://catb.org/~esr/jargon/html/index.html
+Raymond, Eric. "Homesteading the Noosphere." http://catb.org/~esr/writings/cathedral-bazaar/homesteading/
+Raymond, Eric. "How to ask Questions the Smart Way." http://catb.org/~esr/faqs/smart-questions.html
+Raymond, Eric. "How to Become a Hacker." http://catb.org/~esr/faqs/hacker-howto.html
+Raymond, Eric. "How to Learn Hacking." http://catb.org/~esr/faqs/hacking-howto.html
+Raymond, Eric. "Magic Cauldron, The." http://catb.org/~esr/writings/cathedral-bazaar/magic-cauldron/
+Raymond, Eric. "Revenge of the Hackers." http://catb.org/~esr/writings/cathedral-bazaar/hacker-revenge/
+Raymond, Eric. "Things Every Hacker Once Knew." http://www.catb.org/~esr/faqs/things-every-hacker-once-knew/
